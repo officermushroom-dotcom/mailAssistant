@@ -1,0 +1,10 @@
+{
+  "description": "Enhance email management with a user-friendly assistant that helps users understand incoming messages and craft replies efficiently.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
